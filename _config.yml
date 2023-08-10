@@ -5,7 +5,7 @@
 # Site
 title: Weberblog
 subtitle: "Nest in the cloud"
-description: "blog,weber,game,resource sharing,college student,china,EE,ZJU,electronic engeneering,Zhejiang University,CS,ECE,"
+description: "This blog is built by a Chinese college student Weber,who comes from ZJU(Zhejiang University) and majoring in Electronic Engenering).I will share my study experience and game resources,and share my own opinion."
 keywords:
 author: Weber Guan
 language: zh-CN
@@ -98,7 +98,6 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: redefine
-
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
